@@ -1,0 +1,31 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "players-schema.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test-watch": "jest --watchAll --verbose"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "jest": "^24.9.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyerthb/data-modeling-lab-04.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heyerthb/data-modeling-lab-04/issues"
+  },
+  "homepage": "https://github.com/heyerthb/data-modeling-lab-04#readme"
+}
